@@ -1,3 +1,13 @@
 # Even or Odd
 
-> Don't forget to rewrite this README to describe your project :) Check out these articles to learn more about writing a good README: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+### This website will sort user-provided input into three categories, *NaNy* characters and *odd* or *even* numbers.
+
+> ![screenshot](./screenshot.png)
+
+### Specifications:
+ * If a user inputs the same value twice, it will pop an **alert** that will warn about the same character input or the same sharacter that is already saved. So all the lists will never have repeated values.
+* After a user has removed a value from the state, they should be able to add it again.
+This code was well organized with `development-strategy` 
+
+* Please check it out by the following link [projects](https://klisabeth.github.io/even-or-odd/.) 
+
